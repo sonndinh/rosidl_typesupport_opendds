@@ -1,5 +1,5 @@
 # generated from
-# rosidl_typesupport_opendds_cpp/rosidl_typesupport_opendds_cpp-extras.cmake
+# rosidl_typesupport_opendds_cpp/rosidl_typesupport_opendds_cpp-extras.cmake.in
 
 find_package(opendds_cmake_module QUIET)
 find_package(ament_cmake REQUIRED)
